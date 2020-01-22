@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29609.76
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jabot", "Jabot\Jabot.csproj", "{6533220A-E955-4C8C-8E12-CE31936788C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Jabot", "Jabot\Jabot.csproj", "{6533220A-E955-4C8C-8E12-CE31936788C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
